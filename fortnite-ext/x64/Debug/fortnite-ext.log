@@ -1,0 +1,20 @@
+﻿cl : command line  warning D9025: overriding '/sdl' with '/GS-'
+cl : command line  warning D9002: ignoring unknown option '/NODEFAULTLIB:library'
+  Memory.cpp
+PSKDM.lib(map_driver.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+PSKDM.lib(map_driver.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+PSKDM.lib(vdm_ctx.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+PSKDM.lib(vdm_ctx.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+PSKDM.lib(ptm_ctx.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+PSKDM.lib(ptm_ctx.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+PSKDM.lib(mapper_ctx.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+PSKDM.lib(mapper_ctx.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+PSKDM.lib(set_mgr.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+PSKDM.lib(set_mgr.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+PSKDM.lib(pe_image.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in main.obj
+PSKDM.lib(pe_image.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MD_DynamicRelease' doesn't match value 'MDd_DynamicDebug' in main.obj
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+main.obj : error LNK2019: unresolved external symbol "unsigned int __cdecl GetProcessId(class std::basic_string_view<char,struct std::char_traits<char> >)" (?GetProcessId@@YAIV?$basic_string_view@DU?$char_traits@D@std@@@std@@@Z) referenced in function main
+    Hint on symbols that are defined and could potentially match:
+      "unsigned int __cdecl GetProcessId(class std::basic_string_view<wchar_t,struct std::char_traits<wchar_t> >)" (?GetProcessId@@YAIV?$basic_string_view@_WU?$char_traits@_W@std@@@std@@@Z)
+C:\Users\Joshua\source\repos\fortnite-ext\x64\Debug\fortnite-ext.exe : fatal error LNK1120: 1 unresolved externals

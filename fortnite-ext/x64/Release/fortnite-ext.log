@@ -1,0 +1,96 @@
+﻿  main.cpp
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(252,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(252,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(252,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(288,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(289,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(290,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(292,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(293,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(294,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(296,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(297,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(298,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(299,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(300,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(301,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(303,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(304,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(305,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(306,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(308,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(309,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(310,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(311,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(313,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(314,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(315,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(316,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(433,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(434,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(435,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(460,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(461,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(462,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(547,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(548,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(550,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(550,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(550,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(550,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(551,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(551,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(551,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(551,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(552,90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(552,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(552,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(552,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(553,90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(553,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(553,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(553,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(554,90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(554,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(554,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(554,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(555,90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(555,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(555,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(555,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(556,98): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(556,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(556,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(556,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(557,98): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(557,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(557,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(557,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(618,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(619,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(621,97): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(621,87): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(621,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(621,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(623,113): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(623,71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(623,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(623,54): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(623,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(627,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(653,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(653,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(692,48): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(692,38): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(749,23): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(750,23): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(871,9): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'uint32_t'
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(871,9): warning C4313: 'printf': '%p' in format string conflicts with argument 1 of type 'uint32_t'
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(872,9): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'uintptr_t'
+C:\Users\Joshua\source\repos\fortnite-ext\fortnite-ext\main.cpp(873,9): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'ULONG64'
+  Generating code
+  1 of 1167 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    9 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  fortnite-ext.vcxproj -> C:\Users\Joshua\source\repos\fortnite-ext\x64\Release\fortnite-ext.exe
